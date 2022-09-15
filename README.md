@@ -7,4 +7,8 @@ Link:https://github.com/3arthqu4ke/3arthh4ck
 
 All configs from Clavar-La-Espada,thank to use EspadaTeam config.
 
+edit:What issues have you encountered? My cfg crystal cannot attack? 
+Or other questions, or do you want to advise me? 
+You can open an issue at https://github.com/AlexanderJonny/Espada/issues, I'll check it out
+
 ![%Z2 GFMR30R39@C_6Z`4 S](https://user-images.githubusercontent.com/92873946/190461967-516f9af3-c9ac-48bf-b8ab-f53015699d69.png)
